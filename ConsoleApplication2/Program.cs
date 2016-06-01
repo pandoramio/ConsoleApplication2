@@ -26,7 +26,7 @@ namespace ConsoleApplication2
         }
         public Student()
         {
-            this.stsdwadadddawda908909
+            this.
         }00909
         public int ID;
         public string Name;
